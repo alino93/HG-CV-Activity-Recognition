@@ -2,7 +2,9 @@
 A novel computer vision based activity recognition method from IMU signals
 
 1- Extract IMU data with HG observer
+
 2- Convert IMU data to Spectrograms with 'Spectrograms_of_activities.ipynb'
+
 3- Train and test the CV algorithm with 'imagenet2_HG_GPU.ipynb'
 
 ![Annotation 2022-09-07 01023243](https://user-images.githubusercontent.com/73147643/188800823-80f5bf87-b7df-401f-9333-8c9338e8e513.jpg)
